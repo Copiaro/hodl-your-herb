@@ -30,7 +30,7 @@ reusable rolling tray. It ships with filter tips and uses an adhesive made from
 
 ## Distribution
 
-Distributed **for free at Bitcoiner events worldwide**, or available to buy at
+Distributed **for free at Bitcoin events worldwide**, or available to buy at
 [copiaro.com](https://copiaro.com).
 
 ## Repository structure
