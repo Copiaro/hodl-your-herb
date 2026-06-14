@@ -28,6 +28,16 @@ reusable rolling tray. It ships with filter tips and uses an adhesive made from
 > open-sources the **artwork / design files** only; it does not grant any rights
 > to the patented folding construction.
 
+## Quote card
+
+Every booklet ships with a **quote card** featuring F. A. Hayek's 1984 remark on
+sound money:
+
+> "I don't believe we shall ever have a good money again before we take the thing
+> out of the hands of government — that is, we can't take it violently out of the
+> hands of government, all we can do is by some sly roundabout way introduce
+> something that they can't stop." — F. A. Hayek, 1984
+
 ## Distribution
 
 Distributed **for free at Bitcoin events worldwide**, or available to buy at
