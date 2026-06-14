@@ -2,8 +2,8 @@
 
 Open-source artwork for **HODL your herb** — a Bitcoin-themed rolling-paper booklet
 that folds into a reusable rolling tray. Released by
-[Copiaro](https://copiaro.com) (Hodlmayr GmbH) and handed out as a popular freebie
-at Bitcoin conferences and events around the world.
+[Copiaro](https://copiaro.com) (Hodlmayr GmbH) and a popular freebie at Bitcoin
+conferences and events around the world.
 
 This repository contains the design files for the editions of the project so the
 community can study, remix and reprint them under a permissive license.
@@ -28,6 +28,11 @@ reusable rolling tray. It ships with filter tips and uses an adhesive made from
 > open-sources the **artwork / design files** only; it does not grant any rights
 > to the patented folding construction.
 
+## Distribution
+
+Distributed **for free at Bitcoiner events worldwide**, or available to buy at
+[copiaro.com](https://copiaro.com).
+
 ## Repository structure
 
 ```
@@ -35,9 +40,9 @@ designs/
   v1-copiaro-genesis/     # 2021 edition (artwork pending)
     source/  print-ready/  preview/
   v2-weedsigner/          # 2025 edition
-    source/        weedsigner_2025.svg   (editable vector)
-    print-ready/   weedsigner_2025.pdf   (vector, print-ready)
-    preview/       weedsigner_2025.png
+    source/        weedsigner_2025.svg, weedsigner_box_2025.svg
+    print-ready/   weedsigner_2025.pdf, weedsigner_box_2025.pdf
+    preview/       weedsigner_2025.png, weedsigner_box_2025.png
 LICENSE   CHANGELOG.md   CONTRIBUTING.md
 ```
 
@@ -46,7 +51,8 @@ LICENSE   CHANGELOG.md   CONTRIBUTING.md
 Each edition is published as an annotated Git tag and a matching GitHub Release:
 
 - `v1.0.0` → Copiaro Genesis (2021)
-- `v2.0.0` → WeedSigner (2025)
+- `v2.0.0` → WeedSigner booklet (2025)
+- `v2.1.0` → WeedSigner display box (2025)
 
 Editions are released as they become available; the tag/release labels the edition,
 not the chronological commit order.
@@ -54,12 +60,13 @@ not the chronological commit order.
 ## Formats
 
 For each edition we publish an editable vector **SVG**, a vector **print-ready PDF**
-and a **PNG** preview. The original Adobe Illustrator/EPS prepress templates are not
-published, as they embed the print shop's production template and legend.
+and a **PNG** preview.
 
 ## Credits
 
 Design by **Bitko Yinowsky**. Project and release by Copiaro (Hodlmayr GmbH).
+Manufactured by **Ziggi**, a premium rolling-paper manufacturer based in the
+EU (Slovenia).
 
 ## License
 

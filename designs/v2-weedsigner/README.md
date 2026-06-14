@@ -21,8 +21,8 @@ Current edition of the project, sold as **WeedSigner – Premium Rolling Papers*
 
 The booklet artwork shows the full layout (outer panel + inner / tray panel).
 The display box is the unfolded carton dieline that holds the individual booklets.
-The print shop (Ziggi) prepress legend, production instructions and the labeled
-face-preview sheet have been removed from all published files. On-product
-branding remains intact.
+
+Manufactured by **Ziggi**, a premium rolling-paper manufacturer based in the EU
+(Slovenia).
 
 Released as Git tags `v2.0.0` (booklet) and `v2.1.0` (display box).
