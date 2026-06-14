@@ -5,14 +5,24 @@ Current edition of the project, sold as **WeedSigner – Premium Rolling Papers*
 
 ## Files
 
+### Booklet
 | File | Purpose |
 |------|---------|
 | `source/weedsigner_2025.svg` | Editable vector source (open format) |
 | `print-ready/weedsigner_2025.pdf` | Vector, print-ready |
 | `preview/weedsigner_2025.png` | Raster preview (150 dpi) |
 
-The artwork shows the full booklet layout: the outer panel ("HODL YOUR HERB",
-Copiaro / WeedSigner branding, QR code) and the inner / tray panel. The print
-shop's prepress legend and production instructions have been removed.
+### Display box (show box)
+| File | Purpose |
+|------|---------|
+| `source/weedsigner_box_2025.svg` | Editable vector source (carton dieline) |
+| `print-ready/weedsigner_box_2025.pdf` | Vector, print-ready |
+| `preview/weedsigner_box_2025.png` | Raster preview (150 dpi) |
 
-Released as Git tag `v2.0.0`.
+The booklet artwork shows the full layout (outer panel + inner / tray panel).
+The display box is the unfolded carton dieline that holds the individual booklets.
+The print shop (Ziggi) prepress legend, production instructions and the labeled
+face-preview sheet have been removed from all published files. On-product
+branding remains intact.
+
+Released as Git tags `v2.0.0` (booklet) and `v2.1.0` (display box).
