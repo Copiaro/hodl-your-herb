@@ -78,6 +78,15 @@ Design by **Bitko Yinowsky**. Project and release by Copiaro (Hodlmayr GmbH).
 Manufactured by **Ziggi**, a premium rolling-paper manufacturer based in the
 EU (Slovenia).
 
+## Acknowledgements
+
+The WeedSigner artwork is a friendly parody and homage of the
+[SeedSigner](https://github.com/SeedSigner/seedsigner) project — an open-source,
+DIY, air-gapped, **Bitcoin-only** signing device ([seedsigner.com](https://seedsigner.com)).
+The device illustration on the booklet riffs on SeedSigner's design with thanks
+and respect; permission was kindly requested in advance. SeedSigner is an
+independent project and is not affiliated with or endorsing Copiaro.
+
 ## License
 
 Released under the **MIT License** — see [LICENSE](LICENSE).
