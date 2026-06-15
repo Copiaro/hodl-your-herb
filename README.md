@@ -91,6 +91,21 @@ independent project and is not affiliated with or endorsing Copiaro.
 
 Released under the **MIT License** — see [LICENSE](LICENSE).
 
+## Trademarks
+
+The designs in this repository are released under the MIT License (see
+[LICENSE](LICENSE)). **Trademarks are not covered by that license.**
+
+"Copiaro" and the Copiaro logo are registered trademarks of HODLMAYR GmbH and
+remain its property.
+
+- **Verbatim (1:1) copies** of a design may include the Copiaro trademark as an
+  integral part of that design.
+- **Modified or derivative versions** may **not** use the Copiaro trademark
+  without prior written permission from HODLMAYR GmbH.
+
+For trademark permission requests, contact support@copiaro.com.
+
 ## Disclaimer
 
 These are artwork files for rolling-paper packaging. Smoking accessories are
