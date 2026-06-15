@@ -1,4 +1,4 @@
-# HODL your herb
+# HODL your Herb
 
 Open-source artwork for **HODL your herb** — a Bitcoin-themed rolling-paper booklet
 that folds into a reusable rolling tray. Released by
