@@ -1,6 +1,6 @@
 # HODL your Herb
 
-Open-source artwork for **HODL your herb** — a Bitcoin-themed rolling-paper booklet
+Open-source artwork for **HODL your Herb** — a Bitcoin-themed rolling-paper booklet
 that folds into a reusable rolling tray. Released by
 [Copiaro](https://copiaro.com) (Hodlmayr GmbH) and a popular freebie at Bitcoin
 conferences and events around the world.
@@ -20,11 +20,11 @@ community can study, remix and reprint them under a permissive license.
 ## What it is
 
 A premium long rolling-paper booklet in a Bitcoin-inspired design. The booklet uses
-the **Ultimate Rolling Solution (URS)** fold so it doubles as a practical,
+the **Ultimate Rolling Solution (URS)** - so it doubles as a practical,
 reusable rolling tray. It ships with filter tips and uses an adhesive made from
 100% natural arabic gum.
 
-> **Note:** The URS booklet fold is a patented mechanism. This repository
+> **Note:** The URS booklet fold is a mechanism patented by Ziggi. This repository
 > open-sources the **artwork / design files** only; it does not grant any rights
 > to the patented folding construction.
 
