@@ -5,6 +5,10 @@ that folds into a reusable rolling tray. Released by
 [Copiaro](https://copiaro.com) (Hodlmayr GmbH) and a popular freebie at Bitcoin
 conferences and events around the world.
 
+The project also includes the **HODL Bag**: a resealable, aroma-tight stand-up
+pouch for herbs, co-branded with [Boveda](https://bovedainc.com) 2-way humidity
+control and in production since 2021.
+
 This repository contains the design files for the editions of the project so the
 community can study, remix and reprint them under a permissive license.
 
@@ -13,6 +17,7 @@ community can study, remix and reprint them under a permissive license.
 | Version | Name | Year | Status | Notes |
 |---------|------|------|--------|-------|
 | **v1** | Copiaro Genesis | 2021 | archived | First edition of the project |
+| **v1.1** | HODL Bag | 2021 | in production | Resealable pouch, co-branded with Boveda |
 | **v2** | WeedSigner | 2025 | current | Current production artwork |
 
 > Product page (v2 / WeedSigner): https://copiaro.com/products/weedsigner
@@ -49,6 +54,10 @@ Distributed **for free at Bitcoin events worldwide**, or available to buy at
 designs/
   v1-copiaro-genesis/     # 2021 edition (artwork pending)
     source/  print-ready/  preview/
+  v1-hodl-bag/            # HODL Bag pouch, 2021 (co-branded with Boveda)
+    source/        hodl-bag_2021.svg
+    print-ready/   hodl-bag_2021.pdf
+    preview/       hodl-bag_2021_front.png, hodl-bag_2021_back.png, hodl-bag_2021_flat.png
   v2-weedsigner/          # 2025 edition
     source/        weedsigner_2025.svg, weedsigner_box_2025.svg
     print-ready/   weedsigner_2025.pdf, weedsigner_box_2025.pdf
@@ -61,6 +70,7 @@ LICENSE   CHANGELOG.md   CONTRIBUTING.md
 Each edition is published as an annotated Git tag and a matching GitHub Release:
 
 - `v1.0.0` → Copiaro Genesis (2021)
+- `v1.1.0` → HODL Bag (2021)
 - `v2.0.0` → WeedSigner booklet (2025)
 - `v2.1.0` → WeedSigner display box (2025)
 
@@ -87,6 +97,10 @@ The device illustration on the booklet riffs on SeedSigner's design with thanks
 and respect; permission was kindly requested in advance. SeedSigner is an
 independent project and is not affiliated with or endorsing Copiaro.
 
+The HODL Bag has been made possible by a long-standing collaboration with
+[Boveda Inc.](https://bovedainc.com), home of the original 2-way humidity control.
+Thank you for more than five years of keeping the herbs of the Bitcoin community fresh.
+
 ## License
 
 Released under the **MIT License** — see [LICENSE](LICENSE).
@@ -106,7 +120,14 @@ remain its property.
 
 For trademark permission requests, contact support@copiaro.com.
 
+**Third-party trademarks:** Boveda®, the Boveda "B" logo and the "Protected by
+Boveda · The Original Terpene Shield" seal shown on the HODL Bag are trademarks or
+registered trademarks of Boveda Inc. They are not owned by HODLMAYR GmbH and are
+not covered by the MIT License. Any reprint, modification or other use of these
+marks requires prior permission from Boveda Inc. See
+[designs/v1-hodl-bag](designs/v1-hodl-bag/README.md#trademarks) for details.
+
 ## Disclaimer
 
-These are artwork files for rolling-paper packaging. Smoking accessories are
+These are artwork files for rolling-paper and storage packaging. Smoking accessories are
 intended for adults of legal age only and for lawful use in your jurisdiction.
